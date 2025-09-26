@@ -1,1 +1,2 @@
 # Vechile-routing
+Implemented a Genetic Algorithm to solve the Vehicle Routing Problem by optimizing delivery routes across multiple vehicles and randomly generated customer locations. Designed a fitness function that minimized total travel distance while balancing route distribution, reducing the average route length from 330 to 229 units over 30 generations and achieving an optimized distance of 421.6 units. Built using Python, DEAP, NumPy, and Matplotlib with visualizations to illustrate depot, locations, and optimal vehicle paths.
